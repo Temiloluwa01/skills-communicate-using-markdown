@@ -33,5 +33,15 @@ I will continue refining my Markdown skills by:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![mau_1](https://github.com/user-attachments/assets/a16cd526-b617-437c-bdfc-8aa2109dd0cd)
 
+## Testing out code  insertion
+```
+Terraform init
+```
+```
+Terraform plan 
+```
+``` javascript
+Terraform Validate
+```
 ## 📌 Conclusion
 This is just the beginning of learning markdown. I plan to use more complex markdown syntax moving forward.
