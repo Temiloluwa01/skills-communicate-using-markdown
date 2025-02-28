@@ -29,5 +29,9 @@ I will continue refining my Markdown skills by:
 - Learning about **Markdown extensions**.
 - Experimenting with **Markdown in different tools**.
 
+## Image insertion
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![mau_1](https://github.com/user-attachments/assets/a16cd526-b617-437c-bdfc-8aa2109dd0cd)
+
 ## 📌 Conclusion
 This is just the beginning of learning markdown. I plan to use more complex markdown syntax moving forward.
