@@ -43,5 +43,10 @@ Terraform plan
 ``` javascript
 Terraform Validate
 ```
+- [x] Learn markdown
+- [x] Write markdown in github Readme
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## 📌 Conclusion
 This is just the beginning of learning markdown. I plan to use more complex markdown syntax moving forward.
